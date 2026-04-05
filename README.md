@@ -57,7 +57,7 @@ A fun memory-based game built using **HTML, CSS, and JavaScript** where players 
 1. Clone the repository:
 
 ```id="clone-cmd"
-git clone https://github.com/Mokshith2c/simon-game.git
+git clone https://github.com/Mokshith2c/Simon-Says-Game.git
 ```
 
 2. Open the project folder:
